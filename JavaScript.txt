@@ -1,0 +1,4 @@
+JavaScript is scripting language.
+It has no data types.
+It can be used for both the client and server side coding
+

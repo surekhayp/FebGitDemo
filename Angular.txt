@@ -1,0 +1,3 @@
+Angular is Front en dfrmework for creating SPA applications.
+It is JS script based framework.
+Thecode of applicationis written using TS.
